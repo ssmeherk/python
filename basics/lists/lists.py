@@ -4,7 +4,7 @@
 # date: 06.06.2024
 # version: v1
 # purpose/task: to take input from a file and run various list commands
-# source: hackerrank
+# source: https://www.hackerrank.com/challenges/python-lists/problem
 #########################################################################
 
 # function definition
