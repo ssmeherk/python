@@ -1,2 +1,2 @@
-# Contents of this repository
+# Contents:
 1. Basic Python codes
