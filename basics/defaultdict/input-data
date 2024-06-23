@@ -1,0 +1,11 @@
+# group A size n = 5, group B size m = 2
+# group A contains 'a', 'a', 'b', 'a', 'b'
+# group B contains 'a', 'b'
+5 2
+a     
+a
+b
+a
+b
+a       
+b
